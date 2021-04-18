@@ -9,6 +9,7 @@ flask = "*"
 flask-jwt = "*"
 flask-sqlalchemy = "*"
 python-dotenv = "*"
+uwsgi = "*"
 
 [dev-packages]
 autopep8 = "*"
