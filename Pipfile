@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 flask-restful = "*"
 flask = "*"
-flask-jwt = "*"
 flask-sqlalchemy = "*"
 python-dotenv = "*"
 uwsgi = "*"
@@ -16,4 +15,4 @@ psycopg2-binary = "*"
 autopep8 = "*"
 
 [requires]
-python_version = "3.9.4"
+python_version = "python3.8"
